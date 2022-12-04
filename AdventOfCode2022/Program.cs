@@ -10,7 +10,7 @@ namespace AdventOfCode2022
     {
         static void Main(string[] args)
         {
-            day1.run();
+            day2.run();
 
             Console.ReadKey();
         }
