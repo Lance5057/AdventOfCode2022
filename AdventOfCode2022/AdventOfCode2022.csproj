@@ -44,12 +44,18 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="days\day1\day1.cs" />
+<<<<<<< Updated upstream
     <Compile Include="days\day2\day2.cs" />
+=======
+    <Compile Include="days\day3\day3.cs" />
+    <Compile Include="days\day4\day4.cs" />
+>>>>>>> Stashed changes
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

@@ -10,7 +10,12 @@ namespace AdventOfCode2022
     {
         static void Main(string[] args)
         {
+<<<<<<< Updated upstream
             day2.run();
+=======
+            day4.run();
+            //day3.runP2();
+>>>>>>> Stashed changes
 
             Console.ReadKey();
         }
