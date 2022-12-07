@@ -44,12 +44,10 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="days\day1\day1.cs" />
-<<<<<<< Updated upstream
     <Compile Include="days\day2\day2.cs" />
-=======
     <Compile Include="days\day3\day3.cs" />
     <Compile Include="days\day4\day4.cs" />
->>>>>>> Stashed changes
+    <Compile Include="days\day5\day5.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
